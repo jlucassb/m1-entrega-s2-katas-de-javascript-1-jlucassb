@@ -1,0 +1,22 @@
+i;i <=20;i % 2 === 0;numerosPares.push(i);i++
+1;true;false;--;2
+2;true;true;2;3
+3;true;false;--;4
+4;true;true;4;5
+5;true;false;--;6
+6;true;true;6;7
+7;true;false;--;8
+8;true;true;8;9
+9;true;false;--;10
+10;true;true;10;11
+11;true;false;--;12
+12;true;true;12;13
+13;true;false;--;14
+14;true;true;14;15
+15;true;false;--;16
+16;true;true;16;17
+17;true;false;--;18
+18;true;true;18;19
+19;true;false;--;20
+20;true;true;20;21
+21;false;--;--;--
